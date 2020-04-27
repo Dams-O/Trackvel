@@ -1,21 +1,53 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My first Vue app</title>
+    <title>Trackvel</title>
     <script src="https://unpkg.com/vue"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="app">
-    {{ message }}
-</div>
+<!--<div id="app">-->
+<!--    {{ message }}-->
+<!--</div>-->
+<header>
+        <img class="headerban" src="./asset/header.png">
+        <img class="headerlogo" src="./asset/Trackvel-Final.png">
+    <nav>
+        <a href="#">Accueil</a>
+        <a href="#">Qui somme nous?</a>
+        <a href="#">Nos voyages</a>
+        <a href="#">Statistiques</a>
+    </nav>
+    <div class="socialligne">
+        <a class="sociallogo" href="#"><img src="./asset/FB.png"></a>
+        <a class="sociallogo" href="#"><img src="./asset/Whatsapp.png"></a>
+        <a class="sociallogo" href="#"><img src="./asset/TT.png"></a>
+        <a class="sociallogo" href="#"><img src="./asset/Insta.png"></a>
+    </div>
+</header>
 
-<script>
-    var app = new Vue({
-        el: '#app',
-        data: {
-            message: 'Hello Vue!'
-        }
-    })
-</script>
+<main>
+    <div class="homebanner banner1">
+        <img src="./asset/BannerImage.png">
+        <div class="bannertext">
+            <h1>Votre aventure commence maintenant !</h1>
+            <p>Avec Trackvel vous ne voyagez plus, vous <span>Trackvelez !</span></p>
+        </div>
+<!--        <a href="#"><img src="./asset/Bouton2.png"></a>-->
+    </div>
+
+</main>
+
+<footer></footer>
+
+
+<!--<script>-->
+<!--    var app = new Vue({-->
+<!--        el: '#app',-->
+<!--        data: {-->
+<!--            message: 'Hello Vue!'-->
+<!--        }-->
+<!--    })-->
+<!--</script>-->
 </body>
 </html>
