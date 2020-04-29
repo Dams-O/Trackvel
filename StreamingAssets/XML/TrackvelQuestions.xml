@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trackvel>
+	<Questions>
+		<Question Id="1">
+			<description>Les permiers textes proprement grecs (en langue grecque) sont apparues ?</description>
+			<lg>1</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>Au IXe siecle av JC</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Au Xe siecle av JC</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Au Ve siecle av JC</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>à une date inconnue et introuvable pour le moment</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="2">
+			<description>Le premier État grec indépendant de l'ère moderne voit le jour en ?</description>
+			<lg>0</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>1750</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>1907</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>1830</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>1880</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+	</Questions>
+</Trackvel>
