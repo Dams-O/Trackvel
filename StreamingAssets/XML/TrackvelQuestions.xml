@@ -43,5 +43,383 @@
 				<point>0</point>
 			</Reponse>
 		</Question>
+		<Question Id="3">
+			<description>La Grèce est entourée de 3 mers ?</description>
+			<lg>1</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>Mer Morte, Méditerranée et Egée</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Mer Morte, Noire et Ionienne</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Mer Ionienne, Méditerranée et Egée</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Mer Noire, Ionienne et Egée</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="4">
+			<description>L'époque archaïque de la Grèce commence en ?</description>
+			<lg>1</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>620 av JC</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>480 av JC</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>1080 av JC</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>810 av JC</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="5">
+			<description>Un cinquième de la Grèce est composé d'îles et îlots, il y en a ?</description>
+			<lg>1</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>moins de 100</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>environ 500</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>entre 1000 et 2000</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>plus de 9000</description>
+				<point>1</point>
+			</Reponse>
+		</Question>
+		<Question Id="6">
+			<description>Polyphème  le cyclope, fils de Poséidon, se fit crever son unique oeil par ?</description>
+			<lg>1</lg>
+			<theme>Mythologie</theme>
+			<Reponse Id="1">
+				<description>Poséidon lui même</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Thésée</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Ulysse</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Héraclès</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="7">
+			<description>Athéna, déesse de la sagesse et de la stratégie militaire, naquis ?</description>
+			<lg>1</lg>
+			<theme>Mythologie</theme>
+			<Reponse Id="1">
+				<description>de la jambe de Zeus</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>de la mer Méditerrané</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>du crâne de Zeus</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>par césarienne</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="8">
+			<description>La particularité de Héphaïstos le dieu du feu et de la forge, est ?</description>
+			<lg>1</lg>
+			<theme>Mythologie</theme>
+			<Reponse Id="1">
+				<description>sa laideur sans pareille</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>ses mains démesurées</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>son alimentation végétarienne</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>son apparence animale</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="9">
+			<description>Hadès est le dieux ?</description>
+			<lg>1</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>des Enfers</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>du feu</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>de la guerre</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>de la récolte</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="10">
+			<description>Zeus, dieux des dieux, possède ?</description>
+			<lg>0</lg>
+			<theme>Histoire</theme>
+			<Reponse Id="1">
+				<description>3 enfants</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>3 enfants</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>5 enfants</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>6 enfants</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="11">
+			<description>Milon de Crotone, célébre athlète Grec, doit ça force ?</description>
+			<lg>2</lg>
+			<theme>Personnage</theme>
+			<Reponse Id="1">
+				<description>au fait de porter un veau sur son dos chaque jour, même jusqu'à son âge adulte</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>à un éclair divin l'ayant fraper lors d'un marathon</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>au sacrifice de sa bien aimé ainsi que sa première fille</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>à son alimentation à base de pierres et du sang d'animaux féroces</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="12">
+			<description>Bellérophon , roi de Corinthe, a réussi à aprivoiser ?</description>
+			<lg>1</lg>
+			<theme>Personnage</theme>
+			<Reponse Id="1">
+				<description>la Chimère</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>la colère de Poséidon</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Pégase</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Sphinx</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="13">
+			<description>Héraclès doit ses pouvoir ?</description>
+			<lg>1</lg>
+			<theme>Personnage</theme>
+			<Reponse Id="1">
+				<description>de son père Zeus</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>du lait divin de Héra</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>du fait d'avoir été plongé dans le Styx par sa mère</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>de son armure divine</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="14">
+			<description>Laquelle de ces action Héraclès n'as pas réalisé ?</description>
+			<lg>2</lg>
+			<theme>Personnage</theme>
+			<Reponse Id="1">
+				<description>faire un pendantif d'oreilles et de nez</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>tuer Linos à coup de tabouret</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>devenir père de 50 enfants provenant de 50 soeurs différents, toutes filles du roi Thespios</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>abattre une maison d'un coup de poing par pur ennuis</description>
+				<point>1</point>
+			</Reponse>
+		</Question>
+		<Question Id="15">
+			<description>Qui a pour quête de trouver la toison d'or ?</description>
+			<lg>0</lg>
+			<theme>Personnage</theme>
+			<Reponse Id="1">
+				<description>Thésée</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Jason</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Héraclés</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Oedipe</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="16">
+			<description>Dans l'alphabet grec, il y a ?</description>
+			<lg>1</lg>
+			<theme>Contemporain</theme>
+			<Reponse Id="1">
+				<description>26 lettres</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>24 lettres</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>20 lettres</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>plus de 27</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="17">
+			<description>La plus grande ville est ?</description>
+			<lg>0</lg>
+			<theme>Contemporain</theme>
+			<Reponse Id="1">
+				<description>Montpellier</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Serrès</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Athènes</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Tripoli</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="18">
+			<description>La Grèce est ?</description>
+			<lg>1</lg>
+			<theme>Contemporain</theme>
+			<Reponse Id="1">
+				<description>une dictature</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>une république parlementaire</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>une republique populaire</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>une sociocratie</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="19">
+			<description>La religion la plus représenté actuellement en Grèce est ?</description>
+			<lg>01</lg>
+			<theme>Contemporain</theme>
+			<Reponse Id="1">
+				<description>l'Eglise Ortodoxe</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>l'Islam</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>l'Eglise Catholique</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>le Judaïsme</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="20">
+			<description>Selon le conseil du tourisme, le tourisme en Grèce représente ?</description>
+			<lg>1</lg>
+			<theme>Contemporain</theme>
+			<Reponse Id="1">
+				<description>16 % du PIB</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>19 % du PIB</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>6 % du PIB</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>14 % du PIB</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
 	</Questions>
 </Trackvel>
