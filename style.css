@@ -201,6 +201,8 @@ button{
     position: relative;
     width: 100%;
     height: 60vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
     /*background-color: yellow;*/
 }
 
@@ -231,6 +233,13 @@ button{
     overflow: hidden;
 }
 
+.galery img{
+    width: 47%;
+    height: 43%;
+    margin: 1%;
+    overflow: visible;
+}
+
 .textediapo{
     /*background-color: white;*/
     /*width: 5px;*/
@@ -249,7 +258,7 @@ button{
     font-weight: 500;
     font-family: Mandatory;
     font-size: 35px;
-    width: 90%;
+    width: 80%;
     /*margin-left: 5%;*/
     /*margin-right: 5%;*/
     text-align: center;
@@ -258,7 +267,7 @@ button{
 .textediapo p {
     font-family: GeosansLight;
     font-size: 25px;
-    width: 90%;
+    width: 80%;
     /*margin-left: 5%;*/
     /*margin-right: 5%;*/
 }
