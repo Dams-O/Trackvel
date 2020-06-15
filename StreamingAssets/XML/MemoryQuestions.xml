@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nounou>
+	<Questions>
+		<Question Id="1">
+			<description>A quelle heure Lola a pris son premier biberon de la journée ?</description>
+			<lg>0</lg>
+			<theme>Hygiene</theme>
+			<Reponse Id="1">
+				<description>4h</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>4h15</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>4h30</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>5h</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="2">
+			<description>A quelle heure doit-elle prendre son prochain biberon ?</description>
+			<lg>0</lg>
+			<theme>Hygiene</theme>
+			<Reponse Id="1">
+				<description>7h30</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>6h30</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>7h40</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>8h30</description>
+				<point>3</point>
+			</Reponse>
+		</Question>
+		<Question Id="3">
+			<description>Quelle quantité devez-vous mettre dans le biberon ?</description>
+			<lg>0</lg>
+			<theme>Sorties</theme>
+			<Reponse Id="1">
+				<description>180ml</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>160ml</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>185ml</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>190ml</description>
+				<point>3</point>
+			</Reponse>
+		</Question>
+		<Question Id="4">
+			<description>Quel déjeuner le papa vous recommande-t-il de préparer ?</description>
+			<lg>1</lg>
+			<theme>Hygiene</theme>
+			<Reponse Id="1">
+				<description>Purée, poulet et yaourt</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Purée, poulet et fruit</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Pâtes, poulet et gâteau</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Pâtes, poulet et yaourt</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="5">
+			<description>Le papa est inquiet, sa fille était un peu chaude cette nuit. Quelle température avait-elle ?</description>
+			<lg>0</lg>
+			<theme>Santé</theme>
+				<Reponse Id="1">
+					<description>38°C</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>36°C</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>39°C</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>40°C</description>
+					<point>0</point>
+				</Reponse>
+		</Question>
+		<Question Id="6">
+			<description>Combien d’heures de sommeil un enfant de 2 ans a besoin ?</description>
+			<lg>0</lg>
+			<theme>Sommeil</theme>
+				<Reponse Id="1">
+					<description>8h et 10h</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>11h et 14h</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>10h et 12h</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>6h et 8h</description>
+					<point>0</point>
+				</Reponse>
+		</Question>
+		<Question Id="7">
+			<description>L’enfant souhaite s’endormir avec la lumière, comment réagissez-vous ?</description>
+			<lg>2</lg>
+			<theme>Sommeil</theme>
+				<Reponse Id="1">
+					<description>J’éteins et je le laisse dans le noir</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Je laisse une veilleuse allumée </description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>Je laisse la lumière du couloir allumée et la porte entrouverte</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>Si les parents m’y autorise, je laisse une lumière</description>
+					<point>3</point>
+				</Reponse>
+		</Question>
+		<Question Id="8">
+			<description>Trouvez le bon numéro d’urgence à connaitre ?</description>
+			<lg>0</lg>
+			<theme>Urgence</theme>
+				<Reponse Id="1">
+					<description>18</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>11</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>36</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>14</description>
+					<point>0</point>
+				</Reponse>
+		</Question>
+		<Question Id="9">
+			<description>À quelle température faut-il estimer qu’un enfant a de la fièvre ?</description>
+			<lg>0</lg>
+			<theme>Urgence</theme>
+				<Reponse Id="1">
+					<description>37,5°C</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>38,5°C</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>35,5°C</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>36,5°C</description>
+					<point>0</point>
+				</Reponse>
+		</Question>
+		<Question Id="10">
+			<description>Qu’appelle-t-on motricité libre ?</description>
+			<lg>2</lg>
+			<theme>Eveil</theme>
+			<Reponse Id="1">
+				<description>Le faire avec lui</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Le faire à sa place</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Lui montrer les gestes essentiels</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Laisser l’enfant s’exprimer par lui-même </description>
+				<point>3</point>
+			</Reponse>
+		</Question>
+	</Questions>
+</Nounou>

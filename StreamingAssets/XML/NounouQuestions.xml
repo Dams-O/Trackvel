@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nounou>
+	<Questions>
+		<Question Id="1">
+			<description>Qui appeler si un enfant se blesse ?</description>
+			<lg>0</lg>
+			<theme>Urgence</theme>
+				<Reponse Id="1">
+					<description>Le Samu</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Le médecin de famille</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>La pharmacie de garde</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>Les parents</description>
+					<point>4</point>
+				</Reponse>
+				<Reponse Id="5">
+					<description>Les pompiers</description>
+					<point>2</point>
+				</Reponse>
+		</Question>
+		<Question Id="2">
+			<description>Avec un enfant de 2 ans, quelles précautions prendre avant de traverser sur un passage piéton ?</description>
+			<lg>0</lg>
+			<theme>Sortie</theme>
+				<Reponse Id="1">
+					<description>Mettre un gilet jaune</description>
+					<point>2</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Regarder à droite et à gauche si un véhicule arrive</description>
+					<point>4</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>Lui tenir la main</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>Autre</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="5">
+					<description>test</description>
+					<point>0</point>
+				</Reponse>
+		</Question>
+		<Question Id="3">
+			<description>Un enfant de 2 ans ne veut pas manger et il est en colère. Que faire pour le calmer ?</description>
+			<lg>0</lg>
+			<theme>Sommeil</theme>
+				<Reponse Id="1">
+					<description>Le laisser à table et essayer de le calmer</description>
+					<point>2</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Le sortir de table et le laisser se calmer</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>Faire une assiette plus ludique pour l’inciter à manger</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>Le divertir afin qu’il se calme et mange à nouveau</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="5">
+					<description>Se mettre au niveau de l’enfant et comprendre sa colère</description>
+					<point>4</point>
+				</Reponse>
+		</Question>
+		<Question Id="4">
+			<description>Comment gérer la colère d’un enfant de 3 ans pour qu’il puisse s’endormir ?</description>
+			<lg>0</lg>
+			<theme>Urgence</theme>
+				<Reponse Id="1">
+					<description>Lui faire un dernier câlin</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Allumer une veilleuse pour ne pas qu’il soit complétement dans le noir</description>
+					<point>2</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>Lui lire une histoire</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>Se mettre au niveau de l’enfant et comprendre sa colère</description>
+					<point>4</point>
+				</Reponse>
+				<Reponse Id="5">
+					<description>Lui demander ce qui ne va pas</description>
+					<point>3</point>
+				</Reponse>
+		</Question>
+		<Question Id="5">
+			<description>Quels sont les numéros d’urgence à connaître si un enfant se blesse gravement ?</description>
+			<lg>0</lg>
+			<theme>Urgence</theme>
+				<Reponse Id="1">
+					<description>15</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Centre antipoison</description>
+					<point>2</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>18</description>
+					<point>4</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>112</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="5">
+					<description>Le numéro des parents</description>
+					<point>0</point>
+				</Reponse>
+		</Question>
+		<Question Id="6">
+			<description>Quel est le déroulement du développement du bébé à 3 mois ?</description>
+			<lg>0</lg>
+			<theme>Transmission</theme>
+				<Reponse Id="1">
+					<description>Il tient sa tête</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="2">
+					<description>Il commence à faire des vocalises</description>
+					<point>3</point>
+				</Reponse>
+				<Reponse Id="3">
+					<description>Il vous suit du regard</description>
+					<point>0</point>
+				</Reponse>
+				<Reponse Id="4">
+					<description>il se tient assis</description>
+					<point>1</point>
+				</Reponse>
+				<Reponse Id="5">
+					<description>Autre</description>
+					<point>4</point>
+				</Reponse>
+		</Question>
+		<Question Id="7">
+			<description>Dans quels cas peut-on donner un médicament à un enfant ?</description>
+			<lg>0</lg>
+			<theme>Activite</theme>
+			<Reponse Id="1">
+				<description>Sur ordonnance du médecin et avec l’accord parental</description>
+				<point>4</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Sur demande des parents lors de la transmission</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Sur demande des parents via SMS</description>
+				<point>2</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>En cas de maladie avérée (grippe par exemple)</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Si la crèche/école donne l’autorisation</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="8">
+			<description>Quelles informations sont importantes lorsqu’un parent vous fait sa transmission ?</description>
+			<lg>0</lg>
+			<theme>Transmission</theme>
+			<Reponse Id="1">
+				<description>Les allergies que l’enfant peut avoir</description>
+				<point>4</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Les rituels de l’enfant</description>
+				<point>2</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Les jeux qu’il aime faire</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>L’heure habituelle de la sieste</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Le plat préféré de l’enfant</description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="9">
+			<description>Comment organiser un atelier peinture avec un enfant de 8 ans ?</description>
+			<lg>0</lg>
+			<theme>Activite</theme>
+			<Reponse Id="1">
+				<description>Réaliser cette activité sur le sol ou sur son bureau</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Mettre un vieux vêtement ou un tablier à l’enfant</description>
+				<point>2</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Lui rappeler les règles</description>
+				<point>4</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Laisser l’enfant dessiner ce qu’il veut</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Profiter du parc ou du jardin pour réaliser cette activité</description>
+				<point>1</point>
+			</Reponse>
+		</Question>
+		<Question Id="10">
+			<description>Quelles sont les activités à privilégier avant le coucher d’un enfant de 9 ans ?</description>
+			<lg>0</lg>
+			<theme>Sommeil</theme>
+			<Reponse Id="1">
+				<description>Le faire jouer au puzzle</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Lui lire un livre</description>
+				<point>4</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Jeu calme sur tablette tactile</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Jouer à un jeu de société </description>
+				<point>2</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Jouer à un jeu de construction</description>
+				<point>1</point>
+			</Reponse>
+		</Question>
+		<Question Id="11">
+			<description>Comment organiser au mieux l’aide aux devoirs pour un enfant de 6 ans ? </description>
+			<lg>0</lg>
+			<theme>Eveil</theme>
+			<Reponse Id="1">
+				<description>S’adapter à la manière de travailler de l’enfant</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Vérifier son cahier de texte</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Le faire travailler dans un environnement calme</description>
+				<point>4</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Vérifier que les devoirs soient tous faits </description>
+				<point>2</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Le faire travailler seul </description>
+				<point>0</point>
+			</Reponse>
+		</Question>
+		<Question Id="12">
+			<description>Un incendie se déclare dans la maison, comment réagir ? </description>
+			<lg>0</lg>
+			<theme>Urgence</theme>
+			<Reponse Id="1">
+				<description>Prévenir les pompiers une fois hors de danger</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Prévenir les parents</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Toucher la porte afin de voir si elle n’est pas chaude pour sortir</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Étaler des serviettes mouillées sur le seuil des portes</description>
+				<point>2</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Se mettre à terre pour ne pas inhaler la fumée </description>
+				<point>4</point>
+			</Reponse>
+		</Question>
+		<Question Id="13">
+			<description>Vous prévoyez une sortie au parc avec un enfant de 6 ans, en période de canicule. Dehors, il fait 32°C. Que prévoyez-vous ?</description>
+			<lg>0</lg>
+			<theme>Sorite</theme>
+			<Reponse Id="1">
+				<description>Brumisateur</description>
+				<point>0</point>
+			</Reponse>
+			<Reponse Id="2">
+				<description>Bouteille d’eau</description>
+				<point>4</point>
+			</Reponse>
+			<Reponse Id="3">
+				<description>Glacière avec fruits frais</description>
+				<point>1</point>
+			</Reponse>
+			<Reponse Id="4">
+				<description>Casquette</description>
+				<point>3</point>
+			</Reponse>
+			<Reponse Id="5">
+				<description>Crème solaire</description>
+				<point>2</point>
+			</Reponse>
+		</Question>
+	</Questions>
+</Nounou>

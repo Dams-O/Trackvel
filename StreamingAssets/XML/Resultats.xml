@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Resultat xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AdresseAgence>fraise@test.fr</AdresseAgence>
+  <Prenom>Toto</Prenom>
+  <TrancheAge>3-6 ans</TrancheAge>
+  <Nounou>0</Nounou>
+  <NounouPlay>0</NounouPlay>
+  <Family>0</Family>
+  <FamilyPlay>0</FamilyPlay>
+  <JDR>0</JDR>
+  <JDRPlay>0</JDRPlay>
+  <QuizPlay>0</QuizPlay>
+  <Memory>0</Memory>
+  <MemoryPlay>0</MemoryPlay>
+</Resultat>

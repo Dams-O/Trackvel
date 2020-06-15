@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Nounou>
+	<Questions>
+		<Question Id="1">
+			<theme>Urgence</theme>
+			<description>Pendant l’activité coloriage, un enfant de 2 ans avale un bouchon de feutre. Comment réagissez-vous ?</description>
+		</Question>
+		<Question Id="2">
+			<theme>Sommeil</theme>
+			<description>Pour un enfant de 3 ans, citez au moins 3 activités à privilégier avant la sieste et expliquez votre choix ?</description>
+		</Question>
+		<Question Id="3">
+			<theme>Repas</theme>
+			<description>Selon vous, pour le dîner, quel est le repas idéal à préparer à un garçon de 5 ans ?</description>
+		</Question>
+		<Question Id="4">
+			<theme>Sorties</theme>
+			<description>Pour une sortie scolaire, que devez-vous mettre dans le sac à dos d’un enfant qui est en CM1 ?</description>
+		</Question>
+	</Questions>
+</Nounou>
